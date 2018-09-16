@@ -385,7 +385,7 @@ a {
       width: 100%;
       .item {
         background-color: #fff;
-        margin: 7px;
+        margin: 2px;
         padding: 8px;
         display: inline-block;
         img{
@@ -420,6 +420,9 @@ a {
       h2 {
         padding-top: 30px;
         text-align: center;
+        img {
+          max-width: 100%;
+        }
       }
       .sp_guide {
         display: none;
@@ -675,7 +678,6 @@ a {
 
 #footer {
   margin-top: 50px;
-  margin-bottom: 140px;
   .page_top {
     float: right;
     padding-bottom: 15px;
@@ -713,8 +715,8 @@ a {
        float: none;
        margin-bottom: 55px;
        img {
-         width: 180px;
-         height: 25px;
+         width: 80px;
+         height: 20px;
        }
      }
     }

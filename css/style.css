@@ -67,13 +67,15 @@ a {
 #main .main .new_items h2 {
   text-align: center;
   max-width: 100%; }
+  #main .main .new_items h2 img {
+    max-width: 100%; }
 #main .main .new_items .sp_new_items {
   display: none; }
 #main .main .new_items .items {
   width: 100%; }
   #main .main .new_items .items .item {
     background-color: #fff;
-    margin: 7px;
+    margin: 2px;
     padding: 8px;
     display: inline-block; }
     #main .main .new_items .items .item img {
@@ -93,13 +95,15 @@ a {
 #main .main .popular_items h2 {
   text-align: center;
   padding-top: 30px; }
+  #main .main .popular_items h2 img {
+    max-width: 100%; }
 #main .main .popular_items .sp_popular {
   display: none; }
 #main .main .popular_items .items {
   width: 100%; }
   #main .main .popular_items .items .item {
     background-color: #fff;
-    margin: 7px;
+    margin: 2px;
     padding: 8px;
     display: inline-block; }
     #main .main .popular_items .items .item img {
@@ -119,6 +123,8 @@ a {
 #main .main .shopping_guide h2 {
   padding-top: 30px;
   text-align: center; }
+  #main .main .shopping_guide h2 img {
+    max-width: 100%; }
 #main .main .shopping_guide .sp_guide {
   display: none; }
 #main .main .shopping_guide .guide_box {
@@ -276,8 +282,7 @@ a {
       margin-bottom: 10px; } }
 
 #footer {
-  margin-top: 50px;
-  margin-bottom: 140px; }
+  margin-top: 50px; }
   #footer .page_top {
     float: right;
     padding-bottom: 15px; }
@@ -307,8 +312,8 @@ a {
         float: none;
         margin-bottom: 55px; }
         #footer .clearfix .page_top img {
-          width: 180px;
-          height: 25px; }
+          width: 80px;
+          height: 20px; }
     #footer .border {
       margin-top: 50px; } }
 
