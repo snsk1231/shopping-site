@@ -77,7 +77,8 @@ a {
     background-color: #fff;
     margin: 2px;
     padding: 8px;
-    display: inline-block; }
+    display: inline-block;
+    width: 32.64%; }
     #main .main .new_items .items .item img {
       max-width: 100%; }
     #main .main .new_items .items .item p {
@@ -91,7 +92,7 @@ a {
   #main .main .new_items .sp_new_items {
     display: block; }
   #main .main .new_items .items .item {
-    width: 46%; } }
+    width: 48.87%; } }
 #main .main .popular_items h2 {
   text-align: center;
   padding-top: 30px; }
@@ -105,7 +106,8 @@ a {
     background-color: #fff;
     margin: 2px;
     padding: 8px;
-    display: inline-block; }
+    display: inline-block;
+    width: 32.64%; }
     #main .main .popular_items .items .item img {
       max-width: 100%; }
     #main .main .popular_items .items .item p {
@@ -119,7 +121,7 @@ a {
   #main .main .popular_items .sp_popular {
     display: block; }
   #main .main .popular_items .items .item {
-    width: 46%; } }
+    width: 48.87%; } }
 #main .main .shopping_guide h2 {
   padding-top: 30px;
   text-align: center; }
